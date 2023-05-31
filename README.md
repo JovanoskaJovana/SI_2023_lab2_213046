@@ -1,7 +1,8 @@
 # Втора лабораториска вежба по Софтверско инженерство
 ## Јована Јованоска, бр. на индекс 213046
 ### Control Flow Graph
-![SILAB](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/assets/126422782/7997776a-380f-4a03-8327-108aad09f44c)
+![image](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/assets/126422782/abc1fe58-9587-4ca1-9c3b-679cdee3c054)
+
 ### Цикломатска комплексност
 Цикломатската комплексност на овој код е 11, истата ја добив преку формулата Р+1, каде бројот Р е бројот на предикатни јазли. Во случајов, Р=10, па цикломатската комплексност изнесува 11.
 ### Тест случаи според критериумот Every branch
@@ -14,7 +15,8 @@
 **Петти тест случај**: Username=username; Email: X; Pasw: содржи празни места.<br> 
 [lab2.xlsx](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/files/11585397/lab2.xlsx)
 ### Tест случаи според Multiple Condition критериумот за условот: if (user==null || user.getPassword()==null || user.getEmail()==null)
-![image](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/assets/126422782/2c719fd8-1a58-45b2-b267-9028a0f1cafa)
+![image](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/assets/126422782/1cae5d28-dc1d-48de-83d0-6c47e00a56f2)
+
 <br> Вкупно потребни ќе бидат 4 тест случаи според Multiple Condition критериумот.<br>
 **Прв тест случај**: Т X X - доколку првиот исказ е исполнет, не е важно дали останатите искази се исполнети, бидејќи условот ќе биде точен во секој случај - Т.
 <br>
