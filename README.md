@@ -16,7 +16,7 @@
 **Петти тест случај**: Username=username; Email: X; Pasw: содржи празни места.<br> 
 [lab2.xlsx](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/files/11585397/lab2.xlsx)
 ### Tест случаи според Multiple Condition критериумот за условот: if (user==null || user.getPassword()==null || user.getEmail()==null)
-![image](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/assets/126422782/1cae5d28-dc1d-48de-83d0-6c47e00a56f2)
+![multiple](https://github.com/JovanoskaJovana/SI_2023_lab2_213046/assets/126422782/e4c5cb59-bd2f-4fd1-bd89-aacd11d3d81b)
 
 <br> Вкупно потребни ќе бидат 4 тест случаи според Multiple Condition критериумот.<br>
 **Прв тест случај**: Т X X - доколку првиот исказ е исполнет, не е важно дали останатите искази се исполнети, бидејќи условот ќе биде точен во секој случај - Т.
